@@ -1,5 +1,5 @@
 {
-  "id": "template-1752179765391",
+  "id": "test-template-01",
   "canvasWidth": 1080,
   "canvasHeight": 1080,
   "layers": [
@@ -15,9 +15,8 @@
         "width": 1080,
         "height": 1080
       },
-      "type": "image",
-      "assetName": "image.png"
-      https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/image.png,
+      "type": "remoteImage",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/image.png"
     }
   ]
 }
