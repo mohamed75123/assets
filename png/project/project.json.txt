@@ -1,8 +1,0 @@
-{
-  background httpscdn.jsdelivr.netghmohamed75123assets@mainpngprojectbackground.jpg,
-  cadre httpscdn.jsdelivr.netghmohamed75123assets@mainpngprojectcadre.png,
-  photo01 httpscdn.jsdelivr.netghmohamed75123assets@mainpngprojectphoto01.png,
-  photo02 httpscdn.jsdelivr.netghmohamed75123assets@mainpngprojectphoto02.png,
-  phtographi01 httpscdn.jsdelivr.netghmohamed75123assets@mainpngprojectphtographi01.png,
-  typographi httpscdn.jsdelivr.netghmohamed75123assets@mainpngprojecttypographi.png
-}
