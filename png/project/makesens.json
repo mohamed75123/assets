@@ -1,0 +1,25 @@
+{
+  "id": "template-1752275409391",
+  "canvasWidth": 1080,
+  "canvasHeight": 1350,
+  "layers": [
+    {
+      "id": "------------------3",
+      "name": "سلام من محمد هستم",
+      "zIndex": 1,
+      "position": {
+        "x": 324,
+        "y": 651
+      },
+      "size": {
+        "width": 431,
+        "height": 51
+      },
+      "type": "text",
+      "content": "سلام من محمد هستم",
+      "fontFamily": "IRANYekan",
+      "fontSize": 75,
+      "color": "#000000"
+    }
+  ]
+}
