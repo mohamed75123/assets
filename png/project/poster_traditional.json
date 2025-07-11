@@ -1,0 +1,205 @@
+{
+  "id": "template-1752266113718",
+  "canvasWidth": 2000,
+  "canvasHeight": 3000,
+  "layers": [
+    {
+      "id": "---61",
+      "name": "عج",
+      "zIndex": 12,
+      "position": {
+        "x": 331,
+        "y": 2442
+      },
+      "size": {
+        "width": 64,
+        "height": 43
+      },
+      "type": "text",
+      "content": "عج",
+      "fontFamily": "IRANYekan",
+      "fontSize": 94.2245407104492,
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "---------------------------------59",
+      "name": "جنت  آباد شمالی،مسجد انصارالمهدی",
+      "zIndex": 11,
+      "position": {
+        "x": 404,
+        "y": 2452
+      },
+      "size": {
+        "width": 1270,
+        "height": 95
+      },
+      "type": "text",
+      "content": "جنت  آباد شمالی،مسجد انصارالمهدی",
+      "fontFamily": "IRANYekan",
+      "fontSize": 94.2245407104492,
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "---------4---------------------------------58",
+      "name": "پنج شنبه 4 اردیبهشت ماه ازنماز مغرب و عشاء",
+      "zIndex": 10,
+      "position": {
+        "x": 397,
+        "y": 2304
+      },
+      "size": {
+        "width": 1236,
+        "height": 79
+      },
+      "type": "text",
+      "content": "پنج شنبه 4 اردیبهشت ماه ازنماز مغرب و عشاء",
+      "fontFamily": "IRANYekan",
+      "fontSize": 94.2245407104492,
+      "color": "#000000"
+    },
+    {
+      "id": "cadre-54",
+      "name": "cadre",
+      "zIndex": 9,
+      "position": {
+        "x": 358,
+        "y": 2284
+      },
+      "size": {
+        "width": 1322,
+        "height": 135
+      },
+      "type": "image",
+      "assetName": "cadre.png"
+    },
+    {
+      "id": "-----------------------------50",
+      "name": "سخنران: امام جمعه موقت تهران",
+      "zIndex": 8,
+      "position": {
+        "x": 897,
+        "y": 1486
+      },
+      "size": {
+        "width": 684,
+        "height": 61
+      },
+      "type": "text",
+      "content": "سخنران: امام جمعه موقت تهران",
+      "fontFamily": "IRANYekan",
+      "fontSize": 58.6121101379395,
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "-----------------------------19",
+      "name": "عزاداری شهادت رئیس مکتب شیعه",
+      "zIndex": 7,
+      "position": {
+        "x": 767,
+        "y": 1254
+      },
+      "size": {
+        "width": 573,
+        "height": 44
+      },
+      "type": "text",
+      "content": "عزاداری شهادت رئیس مکتب شیعه",
+      "fontFamily": "IRANYekan",
+      "fontSize": 58.6121101379395,
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "----------------------14",
+      "name": "امام صادق علیه السلام",
+      "zIndex": 6,
+      "position": {
+        "x": 710,
+        "y": 1356
+      },
+      "size": {
+        "width": 622,
+        "height": 73
+      },
+      "type": "text",
+      "content": "امام صادق علیه السلام",
+      "fontFamily": "IRANYekan",
+      "fontSize": 95,
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "phtographi01-46",
+      "name": "phtographi01",
+      "zIndex": 5,
+      "position": {
+        "x": 343,
+        "y": 1549
+      },
+      "size": {
+        "width": 1368,
+        "height": 693
+      },
+      "type": "image",
+      "assetName": "phtographi01.png"
+    },
+    {
+      "id": "photo02-66",
+      "name": "photo02",
+      "zIndex": 4,
+      "position": {
+        "x": 267,
+        "y": 1026
+      },
+      "size": {
+        "width": 418,
+        "height": 435
+      },
+      "type": "image",
+      "assetName": "photo02.png"
+    },
+    {
+      "id": "photo01-48",
+      "name": "photo01",
+      "zIndex": 3,
+      "position": {
+        "x": 1354,
+        "y": 955
+      },
+      "size": {
+        "width": 418,
+        "height": 506
+      },
+      "type": "image",
+      "assetName": "photo01.png"
+    },
+    {
+      "id": "typographi-43",
+      "name": "typographi",
+      "zIndex": 2,
+      "position": {
+        "x": 629,
+        "y": 290
+      },
+      "size": {
+        "width": 796,
+        "height": 910
+      },
+      "type": "image",
+      "assetName": "typographi.png"
+    },
+    {
+      "id": "background-83",
+      "name": "background",
+      "zIndex": 1,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 2000,
+        "height": 3000
+      },
+      "type": "image",
+      "assetName": "background.png"
+    }
+  ]
+}
