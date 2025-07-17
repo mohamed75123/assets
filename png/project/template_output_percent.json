@@ -1,0 +1,26 @@
+{
+  "id": "template-1752763438624",
+  "canvasWidth": 1080,
+  "canvasHeight": 1080,
+  "layers": [
+    {
+      "id": "photo01-4",
+      "name": "photo01",
+      "zIndex": 1,
+      "positionPercent": {
+        "x": 0.228704,
+        "y": 0.161111
+      },
+      "sizePercent": {
+        "width": 0.542593,
+        "height": 0.677778
+      },
+      "sizePx": {
+        "width": 586,
+        "height": 732
+      },
+      "type": "image",
+      "assetName": "photo01.png"
+    }
+  ]
+}
