@@ -1,0 +1,29 @@
+{
+  "id": "template-1752860679636",
+  "canvasWidth": 1080,
+  "canvasHeight": 1080,
+  "layers": [
+    {
+      "id": "----------------------13",
+      "name": "سلام من تو هستم تو من",
+      "zIndex": 1,
+      "type": "text",
+      "content": "سلام من تو هستم تو من",
+      "fontFamily": "IRANYekan",
+      "fontSize": 75,
+      "color": "#000000",
+      "positionPercent": {
+        "x": 0.136111,
+        "y": 0.512037
+      },
+      "sizePercent": {
+        "width": 0.727778,
+        "height": 0.066667
+      },
+      "sizePx": {
+        "width": 786,
+        "height": 72
+      }
+    }
+  ]
+}
