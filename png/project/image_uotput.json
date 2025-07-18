@@ -9,6 +9,7 @@
       "zIndex": 1,
       "type": "image",
       "assetName": "imageman.png",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/imageman.png",
       "positionPercent": {
         "x": 0.694444,
         "y": 0.046296
