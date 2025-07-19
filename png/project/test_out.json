@@ -8,7 +8,7 @@
       "name": "back",
       "zIndex": 1,
       "type": "image",
-      "assetName": "back.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/back.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -27,7 +27,7 @@
       "name": "manman",
       "zIndex": 2,
       "type": "image",
-      "assetName": "manman.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/manman.png",
       "positionPercent": {
         "x": 0.269444,
         "y": 0.313021
