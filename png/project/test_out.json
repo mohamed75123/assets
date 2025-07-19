@@ -1,0 +1,67 @@
+{
+  "id": "template-1752940238156",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "back-6",
+      "name": "back",
+      "zIndex": 1,
+      "type": "image",
+      "assetName": "back.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 1
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "manman-4",
+      "name": "manman",
+      "zIndex": 2,
+      "type": "image",
+      "assetName": "manman.png",
+      "positionPercent": {
+        "x": 0.269444,
+        "y": 0.313021
+      },
+      "sizePercent": {
+        "width": 0.462037,
+        "height": 0.461979
+      },
+      "sizePx": {
+        "width": 499,
+        "height": 887
+      }
+    },
+    {
+      "id": "text-3",
+      "name": "text",
+      "zIndex": 3,
+      "type": "text",
+      "content": "hellow i am",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#E4FF00",
+      "positionPercent": {
+        "x": 0.149074,
+        "y": 0.716146
+      },
+      "sizePercent": {
+        "width": 0.701852,
+        "height": 0.059896
+      },
+      "sizePx": {
+        "width": 758,
+        "height": 115
+      }
+    }
+  ]
+}
