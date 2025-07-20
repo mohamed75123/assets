@@ -8,7 +8,7 @@
       "name": "1",
       "zIndex": 16,
       "type": "image",
-      "assetName": "1.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/1.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -27,7 +27,7 @@
       "name": "2",
       "zIndex": 15,
       "type": "image",
-      "assetName": "2.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/2.png",
       "positionPercent": {
         "x": -0.292593,
         "y": -0.0625
@@ -46,7 +46,7 @@
       "name": "3",
       "zIndex": 14,
       "type": "image",
-      "assetName": "3.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/3.png",
       "positionPercent": {
         "x": -0.103704,
         "y": 0.418229
@@ -65,7 +65,7 @@
       "name": "4",
       "zIndex": 13,
       "type": "image",
-      "assetName": "4.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/4.png",
       "positionPercent": {
         "x": 0.260185,
         "y": 0.122396
@@ -84,7 +84,7 @@
       "name": "5",
       "zIndex": 12,
       "type": "image",
-      "assetName": "5.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/5.png",
       "positionPercent": {
         "x": 0,
         "y": 0.158854
@@ -103,7 +103,7 @@
       "name": "6",
       "zIndex": 11,
       "type": "image",
-      "assetName": "6.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/6.png",
       "positionPercent": {
         "x": 0.22037,
         "y": 0.039583
@@ -122,7 +122,7 @@
       "name": "7",
       "zIndex": 10,
       "type": "image",
-      "assetName": "7.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/7.png",
       "positionPercent": {
         "x": -0.558333,
         "y": 0.503125
@@ -141,7 +141,7 @@
       "name": "8",
       "zIndex": 9,
       "type": "image",
-      "assetName": "8.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/8.png",
       "positionPercent": {
         "x": 0.265741,
         "y": 0.645312
@@ -157,11 +157,10 @@
     },
     {
       "id": "hellow-my-word--this-is-my-job-37",
-      "name": "hellow my word  this is my job",
+      "name": "hellow my word  this is my job",
       "zIndex": 8,
       "type": "text",
-      "content": "hellow my word 
-this is my job",
+      "content": "hellow my word \nthis is my job",
       "fontFamily": "IRANYekan-Light",
       "fontSize": 72.9053344726562,
       "color": "#FFFFFF",
@@ -183,7 +182,7 @@ this is my job",
       "name": "9",
       "zIndex": 7,
       "type": "image",
-      "assetName": "9.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/9.png",
       "positionPercent": {
         "x": 0.225,
         "y": 0.832812
@@ -202,7 +201,7 @@ this is my job",
       "name": "10",
       "zIndex": 6,
       "type": "image",
-      "assetName": "10.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/10.png",
       "positionPercent": {
         "x": 0.348148,
         "y": 0.820833
@@ -229,96 +228,4 @@ this is my job",
         "x": 0.467593,
         "y": 0.830729
       },
-      "sizePercent": {
-        "width": 0.065741,
-        "height": 0.007812
-      },
-      "sizePx": {
-        "width": 71,
-        "height": 15
-      }
-    },
-    {
-      "id": "-----------------------------97",
-      "name": "سلام عزیزم برات پیشکل بریزم ",
-      "zIndex": 4,
-      "type": "text",
-      "content": "سلام عزیزم برات پیشکل بریزم ",
-      "fontFamily": "IRANYekan-Medium",
-      "fontSize": 111.093841552734,
-      "color": "#FFFFFF",
-      "positionPercent": {
-        "x": 0.239815,
-        "y": 0.864583
-      },
-      "sizePercent": {
-        "width": 0.508333,
-        "height": 0.025521
-      },
-      "sizePx": {
-        "width": 549,
-        "height": 49
-      }
-    },
-    {
-      "id": "11-49",
-      "name": "11",
-      "zIndex": 3,
-      "type": "image",
-      "assetName": "11.png",
-      "positionPercent": {
-        "x": 0,
-        "y": 0.089063
-      },
-      "sizePercent": {
-        "width": 1,
-        "height": 0.761458
-      },
-      "sizePx": {
-        "width": 1080,
-        "height": 1462
-      }
-    },
-    {
-      "id": "new-text-is-my-new-job-for-you-92",
-      "name": "new text is my new job for you",
-      "zIndex": 2,
-      "type": "text",
-      "content": "new text is my new job for you",
-      "fontFamily": "MyriadArabic-Regular",
-      "fontSize": 54.1666717529297,
-      "color": "#FFFFFF",
-      "positionPercent": {
-        "x": 0.321296,
-        "y": 0.750521
-      },
-      "sizePercent": {
-        "width": 0.349074,
-        "height": 0.053125
-      },
-      "sizePx": {
-        "width": 377,
-        "height": 102
-      }
-    },
-    {
-      "id": "12-112",
-      "name": "12",
-      "zIndex": 1,
-      "type": "image",
-      "assetName": "12.png",
-      "positionPercent": {
-        "x": 0.42963,
-        "y": 0.225
-      },
-      "sizePercent": {
-        "width": 0.512963,
-        "height": 0.159896
-      },
-      "sizePx": {
-        "width": 554,
-        "height": 307
-      }
-    }
-  ]
-}
+      "sizePercent"
