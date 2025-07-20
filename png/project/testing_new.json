@@ -228,4 +228,96 @@
         "x": 0.467593,
         "y": 0.830729
       },
-      "sizePercent"
+      "sizePercent": {
+        "width": 0.065741,
+        "height": 0.007812
+      },
+      "sizePx": {
+        "width": 71,
+        "height": 15
+      }
+    },
+    {
+      "id": "-----------------------------97",
+      "name": "سلام عزیزم برات پیشکل بریزم ",
+      "zIndex": 4,
+      "type": "text",
+      "content": "سلام عزیزم برات پیشکل بریزم ",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 111.093841552734,
+      "color": "#FFFFFF",
+      "positionPercent": {
+        "x": 0.239815,
+        "y": 0.864583
+      },
+      "sizePercent": {
+        "width": 0.508333,
+        "height": 0.025521
+      },
+      "sizePx": {
+        "width": 549,
+        "height": 49
+      }
+    },
+    {
+      "id": "11-49",
+      "name": "11",
+      "zIndex": 3,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/11.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0.089063
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 0.761458
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1462
+      }
+    },
+    {
+      "id": "new-text-is-my-new-job-for-you-92",
+      "name": "new text is my new job for you",
+      "zIndex": 2,
+      "type": "text",
+      "content": "new text is my new job for you",
+      "fontFamily": "MyriadArabic-Regular",
+      "fontSize": 54.1666717529297,
+      "color": "#FFFFFF",
+      "positionPercent": {
+        "x": 0.321296,
+        "y": 0.750521
+      },
+      "sizePercent": {
+        "width": 0.349074,
+        "height": 0.053125
+      },
+      "sizePx": {
+        "width": 377,
+        "height": 102
+      }
+    },
+    {
+      "id": "12-112",
+      "name": "12",
+      "zIndex": 1,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/12.png",
+      "positionPercent": {
+        "x": 0.42963,
+        "y": 0.225
+      },
+      "sizePercent": {
+        "width": 0.512963,
+        "height": 0.159896
+      },
+      "sizePx": {
+        "width": 554,
+        "height": 307
+      }
+    }
+  ]
+}
