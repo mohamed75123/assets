@@ -8,7 +8,7 @@
       "name": "1",
       "zIndex": 16,
       "type": "image",
-      "assetName": "1.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/1.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -27,7 +27,7 @@
       "name": "2",
       "zIndex": 15,
       "type": "image",
-      "assetName": "2.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/2.png",
       "positionPercent": {
         "x": -0.292593,
         "y": -0.0625
@@ -46,7 +46,7 @@
       "name": "3",
       "zIndex": 14,
       "type": "image",
-      "assetName": "3.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/3.png",
       "positionPercent": {
         "x": -0.103704,
         "y": 0.418229
@@ -65,7 +65,7 @@
       "name": "4",
       "zIndex": 13,
       "type": "image",
-      "assetName": "4.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/4.png",
       "positionPercent": {
         "x": 0.260185,
         "y": 0.122396
@@ -84,7 +84,7 @@
       "name": "5",
       "zIndex": 12,
       "type": "image",
-      "assetName": "5.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/5.png",
       "positionPercent": {
         "x": 0,
         "y": 0.158854
@@ -103,7 +103,7 @@
       "name": "6",
       "zIndex": 11,
       "type": "image",
-      "assetName": "6.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/6.png",
       "positionPercent": {
         "x": 0.22037,
         "y": 0.039583
@@ -122,7 +122,7 @@
       "name": "7",
       "zIndex": 10,
       "type": "image",
-      "assetName": "7.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/7.png",
       "positionPercent": {
         "x": -0.558333,
         "y": 0.503125
@@ -141,7 +141,7 @@
       "name": "8",
       "zIndex": 9,
       "type": "image",
-      "assetName": "8.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/8.png",
       "positionPercent": {
         "x": 0.265741,
         "y": 0.645312
@@ -160,8 +160,7 @@
       "name": "دوشنبه های شگفت انگیز به همراه نصب رایگان",
       "zIndex": 8,
       "type": "text",
-      "content": "دوشنبه های شگفت انگیز
-به همراه نصب رایگان",
+      "content": "دوشنبه های شگفت انگیز\nبه همراه نصب رایگان",
       "fontFamily": "MyriadArabic-Regular",
       "fontSize": 97.2071228027344,
       "color": "#FFFFFF",
@@ -183,7 +182,7 @@
       "name": "9",
       "zIndex": 7,
       "type": "image",
-      "assetName": "9.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/9.png",
       "positionPercent": {
         "x": 0.225,
         "y": 0.832812
@@ -202,7 +201,7 @@
       "name": "10",
       "zIndex": 6,
       "type": "image",
-      "assetName": "10.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/10.png",
       "positionPercent": {
         "x": 0.348148,
         "y": 0.820833
@@ -265,7 +264,7 @@
       "name": "11",
       "zIndex": 3,
       "type": "image",
-      "assetName": "11.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/11.png",
       "positionPercent": {
         "x": 0,
         "y": 0.089063
@@ -281,11 +280,10 @@
     },
     {
       "id": "-------------------------------92",
-      "name": "آدرس: سمنان نبش چهار راه  ورزش",
+      "name": "آدرس: سمنان نبش چهار راه  ورزش",
       "zIndex": 2,
       "type": "text",
-      "content": "آدرس: سمنان نبش چهار راه 
-ورزش",
+      "content": "آدرس: سمنان نبش چهار راه \nورزش",
       "fontFamily": "MyriadArabic-Regular",
       "fontSize": 54.1666717529297,
       "color": "#FFFFFF",
@@ -307,7 +305,7 @@
       "name": "12",
       "zIndex": 1,
       "type": "image",
-      "assetName": "12.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/12.png",
       "positionPercent": {
         "x": 0.42963,
         "y": 0.225
