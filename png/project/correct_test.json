@@ -8,7 +8,7 @@
       "name": "book",
       "zIndex": 3,
       "type": "image",
-      "assetName": "book.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/book.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -27,7 +27,7 @@
       "name": "bibi",
       "zIndex": 2,
       "type": "image",
-      "assetName": "bibi.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/bibi.png",
       "positionPercent": {
         "x": 0.269444,
         "y": 0.313021
