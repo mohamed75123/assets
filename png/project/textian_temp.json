@@ -1,0 +1,95 @@
+{
+  "id": "template-1753102248673",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "------------------4",
+      "name": "سلام من محمد هستم",
+      "zIndex": 4,
+      "type": "text",
+      "content": "سلام من محمد هستم",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.158333,
+        "y": 0.427604
+      },
+      "sizePercent": {
+        "width": 0.624074,
+        "height": 0.036979
+      },
+      "sizePx": {
+        "width": 674,
+        "height": 71
+      }
+    },
+    {
+      "id": "hello-my-word-6",
+      "name": "hello my word",
+      "zIndex": 3,
+      "type": "text",
+      "content": "hello my word",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.256481,
+        "y": 0.588021
+      },
+      "sizePercent": {
+        "width": 0.425926,
+        "height": 0.0375
+      },
+      "sizePx": {
+        "width": 460,
+        "height": 72
+      }
+    },
+    {
+      "id": "can-u-8",
+      "name": "can u",
+      "zIndex": 2,
+      "type": "text",
+      "content": "can u",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.6,
+        "y": 0.864583
+      },
+      "sizePercent": {
+        "width": 0.162963,
+        "height": 0.021875
+      },
+      "sizePx": {
+        "width": 176,
+        "height": 42
+      }
+    },
+    {
+      "id": "--------------------10",
+      "name": "بخاطر من وبخاطر شما",
+      "zIndex": 1,
+      "type": "text",
+      "content": "بخاطر من وبخاطر شما",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.350926,
+        "y": 0.055208
+      },
+      "sizePercent": {
+        "width": 0.60463,
+        "height": 0.036979
+      },
+      "sizePx": {
+        "width": 653,
+        "height": 71
+      }
+    }
+  ]
+}
