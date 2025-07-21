@@ -1,0 +1,89 @@
+{
+  "id": "template-1753132742145",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "book-6",
+      "name": "book",
+      "zIndex": 4,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/book.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 1
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "-----------------------------8",
+      "name": "سلام عزیزم برات پیشکل بریزم ",
+      "zIndex": 3,
+      "type": "text",
+      "content": "سلام عزیزم برات پیشکل بریزم ",
+      "fontFamily": "IRANYekan",
+      "fontSize": 111.093841552734,
+      "color": "#FFFFFF",
+      "positionPercent": {
+        "x": 0.166667,
+        "y": 0.120313
+      },
+      "sizePercent": {
+        "width": 0.666667,
+        "height": 0.033854
+      },
+      "sizePx": {
+        "width": 720,
+        "height": 65
+      }
+    },
+    {
+      "id": "4-9",
+      "name": "4",
+      "zIndex": 2,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/4.png",
+      "positionPercent": {
+        "x": 0.186111,
+        "y": 0.244792
+      },
+      "sizePercent": {
+        "width": 0.573148,
+        "height": 0.516146
+      },
+      "sizePx": {
+        "width": 619,
+        "height": 991
+      }
+    },
+    {
+      "id": "toonel-3",
+      "name": "toonel",
+      "zIndex": 1,
+      "type": "text",
+      "content": "hellow i am",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#E4FF00",
+      "positionPercent": {
+        "x": 0.149074,
+        "y": 0.716146
+      },
+      "sizePercent": {
+        "width": 0.701852,
+        "height": 0.059896
+      },
+      "sizePx": {
+        "width": 758,
+        "height": 115
+      }
+    }
+  ]
+}
