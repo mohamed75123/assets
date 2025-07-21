@@ -5,10 +5,10 @@
   "layers": [
     {
       "id": "book-6",
-      "name": "book",
+      "name": "koor",
       "zIndex": 3,
       "type": "image",
-      "assetName": "book.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/koor.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -24,10 +24,10 @@
     },
     {
       "id": "bibi-4",
-      "name": "bibi",
+      "name": "noon",
       "zIndex": 2,
       "type": "image",
-      "assetName": "bibi.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/noon.png",
       "positionPercent": {
         "x": -0.14537,
         "y": 0.169792
