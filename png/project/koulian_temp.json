@@ -8,7 +8,7 @@
       "name": "1",
       "zIndex": 14,
       "type": "image",
-      "assetName": "1.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/1.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -27,7 +27,7 @@
       "name": "3",
       "zIndex": 13,
       "type": "image",
-      "assetName": "3.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/3.png",
       "positionPercent": {
         "x": -0.103704,
         "y": 0.418229
@@ -46,7 +46,7 @@
       "name": "4",
       "zIndex": 12,
       "type": "image",
-      "assetName": "4.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/4.png",
       "positionPercent": {
         "x": 0.260185,
         "y": 0.122396
@@ -65,7 +65,7 @@
       "name": "5",
       "zIndex": 11,
       "type": "image",
-      "assetName": "5.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/5.png",
       "positionPercent": {
         "x": 0,
         "y": 0.158854
@@ -84,7 +84,7 @@
       "name": "6",
       "zIndex": 10,
       "type": "image",
-      "assetName": "6.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/6.png",
       "positionPercent": {
         "x": 0.22037,
         "y": 0.039583
@@ -103,7 +103,7 @@
       "name": "8",
       "zIndex": 9,
       "type": "image",
-      "assetName": "8.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/8.png",
       "positionPercent": {
         "x": 0.265741,
         "y": 0.645312
@@ -119,11 +119,10 @@
     },
     {
       "id": "hellow-my-word--this-is-my-job-37",
-      "name": "hellow my word  this is my job",
+      "name": "hellow my word  this is my job",
       "zIndex": 8,
       "type": "text",
-      "content": "hellow my word 
-this is my job",
+      "content": "hellow my word \nthis is my job",
       "fontFamily": "IRANYekan-Light",
       "fontSize": 72.9053268432617,
       "color": "#FFFFFF",
@@ -145,7 +144,7 @@ this is my job",
       "name": "9",
       "zIndex": 7,
       "type": "image",
-      "assetName": "9.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/9.png",
       "positionPercent": {
         "x": 0.225,
         "y": 0.832812
@@ -164,7 +163,7 @@ this is my job",
       "name": "10",
       "zIndex": 6,
       "type": "image",
-      "assetName": "10.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/10.png",
       "positionPercent": {
         "x": 0.348148,
         "y": 0.820833
@@ -227,7 +226,7 @@ this is my job",
       "name": "11",
       "zIndex": 3,
       "type": "image",
-      "assetName": "11.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/11.png",
       "positionPercent": {
         "x": 0,
         "y": 0.089063
@@ -268,7 +267,7 @@ this is my job",
       "name": "12",
       "zIndex": 1,
       "type": "image",
-      "assetName": "12.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/12.png",
       "positionPercent": {
         "x": 0.42963,
         "y": 0.225
