@@ -1,0 +1,67 @@
+{
+  "id": "template-1753103679990",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "book-6",
+      "name": "book",
+      "zIndex": 3,
+      "type": "image",
+      "assetName": "book.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 1
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "bibi-4",
+      "name": "bibi",
+      "zIndex": 2,
+      "type": "image",
+      "assetName": "bibi.png",
+      "positionPercent": {
+        "x": 0.269444,
+        "y": 0.313021
+      },
+      "sizePercent": {
+        "width": 0.462037,
+        "height": 0.461979
+      },
+      "sizePx": {
+        "width": 499,
+        "height": 887
+      }
+    },
+    {
+      "id": "toonel-3",
+      "name": "toonel",
+      "zIndex": 1,
+      "type": "text",
+      "content": "hellow i am",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#E4FF00",
+      "positionPercent": {
+        "x": 0.149074,
+        "y": 0.716146
+      },
+      "sizePercent": {
+        "width": 0.701852,
+        "height": 0.059896
+      },
+      "sizePx": {
+        "width": 758,
+        "height": 115
+      }
+    }
+  ]
+}
