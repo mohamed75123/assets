@@ -1,0 +1,99 @@
+{
+  "id": "template-1753103137323",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "text1-4",
+      "name": "text1",
+      "zIndex": 1,
+      "type": "text",
+      "content": "سلام من محمد هستم",
+      "textAlign": "center",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.47037,
+        "y": 0.446094
+      },
+      "sizePercent": {
+        "width": 0.618519,
+        "height": 0.036979
+      },
+      "sizePx": {
+        "width": 668,
+        "height": 71
+      }
+    },
+    {
+      "id": "text2-6",
+      "name": "text2",
+      "zIndex": 2,
+      "type": "text",
+      "content": "hello my word",
+      "textAlign": "center",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.469444,
+        "y": 0.606771
+      },
+      "sizePercent": {
+        "width": 0.425926,
+        "height": 0.0375
+      },
+      "sizePx": {
+        "width": 460,
+        "height": 72
+      }
+    },
+    {
+      "id": "text3-8",
+      "name": "text3",
+      "zIndex": 3,
+      "type": "text",
+      "content": "can u",
+      "textAlign": "center",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.681481,
+        "y": 0.875521
+      },
+      "sizePercent": {
+        "width": 0.162963,
+        "height": 0.021875
+      },
+      "sizePx": {
+        "width": 176,
+        "height": 42
+      }
+    },
+    {
+      "id": "text4-10",
+      "name": "text4",
+      "zIndex": 4,
+      "type": "text",
+      "content": "بخاطر من وبخاطر شما",
+      "textAlign": "center",
+      "fontFamily": "IRANYekan-Medium",
+      "fontSize": 150,
+      "color": "#FF0404",
+      "positionPercent": {
+        "x": 0.653241,
+        "y": 0.073698
+      },
+      "sizePercent": {
+        "width": 0.60463,
+        "height": 0.036979
+      },
+      "sizePx": {
+        "width": 653,
+        "height": 71
+      }
+    }
+  ]
+}
