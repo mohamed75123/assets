@@ -1,0 +1,29 @@
+{
+  "id": "template-1753124769092",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "-------------3",
+      "name": "سلام من تستم",
+      "zIndex": 1,
+      "type": "text",
+      "content": "سلام من تستم",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#E4FF00",
+      "positionPercent": {
+        "x": 0.230556,
+        "y": 0.076042
+      },
+      "sizePercent": {
+        "width": 0.706481,
+        "height": 0.061458
+      },
+      "sizePx": {
+        "width": 763,
+        "height": 118
+      }
+    }
+  ]
+}
