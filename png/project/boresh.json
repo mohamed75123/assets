@@ -1,0 +1,45 @@
+{
+  "id": "template-1753278032841",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "layer-0-12",
+      "name": "Layer 0",
+      "zIndex": 2,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/layer_0.png",
+      "positionPercent": {
+        "x": 0.577778,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 0.422222,
+        "height": 0.651563
+      },
+      "sizePx": {
+        "width": 456,
+        "height": 1251
+      }
+    },
+    {
+      "id": "layer-0-copy-11",
+      "name": "Layer 0 copy",
+      "zIndex": 1,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/layer_0_copy.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0.209375
+      },
+      "sizePercent": {
+        "width": 0.45,
+        "height": 0.790625
+      },
+      "sizePx": {
+        "width": 486,
+        "height": 1518
+      }
+    }
+  ]
+}
