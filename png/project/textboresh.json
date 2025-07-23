@@ -1,0 +1,67 @@
+{
+  "id": "template-1753279740274",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "layer-0-12",
+      "name": "Layer 0",
+      "zIndex": 3,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/layer_0.png",
+      "positionPercent": {
+        "x": 0.577778,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 0.422222,
+        "height": 0.651563
+      },
+      "sizePx": {
+        "width": 456,
+        "height": 1251
+      }
+    },
+    {
+      "id": "layer-0-copy-11",
+      "name": "Layer 0 copy",
+      "zIndex": 2,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/layer_0_copy.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0.209375
+      },
+      "sizePercent": {
+        "width": 0.45,
+        "height": 0.790625
+      },
+      "sizePx": {
+        "width": 486,
+        "height": 1518
+      }
+    },
+    {
+      "id": "--------------13",
+      "name": "سلام من احمدم",
+      "zIndex": 1,
+      "type": "text",
+      "content": "سلام من احمدم",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#FF0B0B",
+      "positionPercent": {
+        "x": 0.051852,
+        "y": 0.174479
+      },
+      "sizePercent": {
+        "width": 0.897222,
+        "height": 0.075
+      },
+      "sizePx": {
+        "width": 969,
+        "height": 144
+      }
+    }
+  ]
+}
