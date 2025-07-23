@@ -1,0 +1,245 @@
+{
+  "id": "template-1753301005263",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "6104-3386-3912-3963-17",
+      "name": "6104-3386-3912-3963",
+      "zIndex": 14,
+      "type": "text",
+      "content": "6104-3386-3912-3963",
+      "fontFamily": "IRANYekan",
+      "fontSize": 80.5091310914226,
+      "color": "#611178",
+      "positionPercent": {
+        "x": 0.126852,
+        "y": 0.768229
+      },
+      "sizePercent": {
+        "width": 0.722222,
+        "height": 0.030729
+      },
+      "sizePx": {
+        "width": 780,
+        "height": 59
+      }
+    },
+    {
+      "id": "-------------------------------16",
+      "name": "به نام معصـــومــــه جعفــــری",
+      "zIndex": 13,
+      "type": "text",
+      "content": "به نام معصـــومــــه جعفــــری",
+      "fontFamily": "IRANYekan",
+      "fontSize": 39.522041247038,
+      "color": "#611178",
+      "positionPercent": {
+        "x": 0.3,
+        "y": 0.819792
+      },
+      "sizePercent": {
+        "width": 0.412963,
+        "height": 0.019792
+      },
+      "sizePx": {
+        "width": 446,
+        "height": 38
+      }
+    },
+    {
+      "id": "-----------990-000----------------------------------------------15",
+      "name": "مبـــــلـغ 990.000 تومـــان به شــــــماره کـــــارت زیر واریز ",
+      "zIndex": 12,
+      "type": "text",
+      "content": "مبـــــلـغ 990.000 تومـــان به شــــــماره کـــــارت
+زیر واریز کنید و فیش پرداخت رو دایرکت بفرستید",
+      "fontFamily": "IRANYekan",
+      "fontSize": 39.522041247038,
+      "color": "#611178",
+      "positionPercent": {
+        "x": 0.086111,
+        "y": 0.688021
+      },
+      "sizePercent": {
+        "width": 0.760185,
+        "height": 0.053125
+      },
+      "sizePx": {
+        "width": 821,
+        "height": 102
+      }
+    },
+    {
+      "id": "light-3-14",
+      "name": "LIGHT 3",
+      "zIndex": 11,
+      "type": "image",
+      "assetName": "light_3.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0.357292
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 0.642708
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1234
+      }
+    },
+    {
+      "id": "light-2-13",
+      "name": "LIGHT 2",
+      "zIndex": 10,
+      "type": "image",
+      "assetName": "light_2.png",
+      "positionPercent": {
+        "x": 0.002778,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 0.997222,
+        "height": 0.991667
+      },
+      "sizePx": {
+        "width": 1077,
+        "height": 1904
+      }
+    },
+    {
+      "id": "imagin-10",
+      "name": "imagin",
+      "zIndex": 7,
+      "type": "image",
+      "assetName": "imagin.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0.448958
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 0.551042
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1058
+      }
+    },
+    {
+      "id": "lighting-8",
+      "name": "lighting",
+      "zIndex": 6,
+      "type": "image",
+      "assetName": "lighting.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 0.370833
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 712
+      }
+    },
+    {
+      "id": "hue-saturation-1-7",
+      "name": "Hue/Saturation 1",
+      "zIndex": 5,
+      "type": "image",
+      "assetName": "hue-saturation_1.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 0.465104
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 893
+      }
+    },
+    {
+      "id": "woman-6",
+      "name": "woman",
+      "zIndex": 4,
+      "type": "image",
+      "assetName": "woman.png",
+      "positionPercent": {
+        "x": 0.206481,
+        "y": 0.075521
+      },
+      "sizePercent": {
+        "width": 0.640741,
+        "height": 0.521875
+      },
+      "sizePx": {
+        "width": 692,
+        "height": 1002
+      }
+    },
+    {
+      "id": "layer-2-5",
+      "name": "Layer 2",
+      "zIndex": 3,
+      "type": "image",
+      "assetName": "layer_2.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0.142187
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 0.6625
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1272
+      }
+    },
+    {
+      "id": "light-1-4",
+      "name": "LIGHT 1",
+      "zIndex": 2,
+      "type": "image",
+      "assetName": "light_1.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 1
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    {
+      "id": "bg-3",
+      "name": "BG",
+      "zIndex": 1,
+      "type": "image",
+      "assetName": "bg.png",
+      "positionPercent": {
+        "x": 0,
+        "y": 0
+      },
+      "sizePercent": {
+        "width": 1,
+        "height": 1
+      },
+      "sizePx": {
+        "width": 1080,
+        "height": 1920
+      }
+    }
+  ]
+}
