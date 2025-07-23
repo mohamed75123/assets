@@ -1,0 +1,108 @@
+{
+  "id": "template-1753280783904",
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "layers": [
+    {
+      "id": "jado-10",
+      "name": "jado",
+      "zIndex": 5,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/jado.png",
+      "positionPercent": {
+        "x": 0.625,
+        "y": 0.233333
+      },
+      "sizePercent": {
+        "width": 0.375,
+        "height": 0.139583
+      },
+      "sizePx": {
+        "width": 405,
+        "height": 268
+      }
+    },
+    {
+      "id": "jado-5",
+      "name": "jado",
+      "zIndex": 4,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/jado.png",
+      "positionPercent": {
+        "x": 0.405556,
+        "y": 0.842187
+      },
+      "sizePercent": {
+        "width": 0.322222,
+        "height": 0.059896
+      },
+      "sizePx": {
+        "width": 348,
+        "height": 115
+      }
+    },
+    {
+      "id": "jado-3",
+      "name": "jado",
+      "zIndex": 3,
+      "type": "image",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/jado.png",
+      "positionPercent": {
+        "x": 0.125,
+        "y": 0.059896
+      },
+      "sizePercent": {
+        "width": 0.75,
+        "height": 0.139583
+      },
+      "sizePx": {
+        "width": 810,
+        "height": 268
+      }
+    },
+    {
+      "id": "-------------8",
+      "name": "سلام من تستم",
+      "zIndex": 2,
+      "type": "text",
+      "content": "سلام من تستم",
+      "fontFamily": "IRANYekan",
+      "fontSize": 150,
+      "color": "#FF0B0B",
+      "positionPercent": {
+        "x": 0.072222,
+        "y": 0.410417
+      },
+      "sizePercent": {
+        "width": 0.859259,
+        "height": 0.074479
+      },
+      "sizePx": {
+        "width": 928,
+        "height": 143
+      }
+    },
+    {
+      "id": "----------------9",
+      "name": "بریم مشهد ببینم",
+      "zIndex": 1,
+      "type": "text",
+      "content": "بریم مشهد ببینم",
+      "fontFamily": "IRANYekan",
+      "fontSize": 145.383911132812,
+      "color": "#FF0B0B",
+      "positionPercent": {
+        "x": 0.576852,
+        "y": 0.689583
+      },
+      "sizePercent": {
+        "width": 0.389815,
+        "height": 0.03125
+      },
+      "sizePx": {
+        "width": 421,
+        "height": 60
+      }
+    }
+  ]
+}
