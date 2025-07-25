@@ -52,8 +52,7 @@
       "name": "مبـــــلـغ 990.000 تومـــان به شــــــماره کـــــارت زیر واریز ",
       "zIndex": 12,
       "type": "text",
-      "content": "مبـــــلـغ 990.000 تومـــان به شــــــماره کـــــارت
-زیر واریز کنید و فیش پرداخت رو دایرکت بفرستید",
+      "content": "مبـــــلـغ 990.000 تومـــان به شــــــماره کـــــارت\nزیر واریز کنید و فیش پرداخت رو دایرکت بفرستید",
       "fontFamily": "IRANYekan",
       "fontSize": 39.522041247038,
       "color": "#611178",
@@ -75,7 +74,7 @@
       "name": "LIGHT 3",
       "zIndex": 11,
       "type": "image",
-      "assetName": "light_3-14.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/light_3-14.png",
       "positionPercent": {
         "x": 0,
         "y": 0.357292
@@ -94,7 +93,7 @@
       "name": "LIGHT 2",
       "zIndex": 10,
       "type": "image",
-      "assetName": "light_2-13.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/light_2-13.png",
       "positionPercent": {
         "x": 0.002778,
         "y": 0
@@ -157,7 +156,7 @@
       "name": "imagin",
       "zIndex": 7,
       "type": "image",
-      "assetName": "imagin-10.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/imagin-10.png",
       "positionPercent": {
         "x": 0,
         "y": 0.448958
@@ -176,7 +175,7 @@
       "name": "lighting",
       "zIndex": 6,
       "type": "image",
-      "assetName": "lighting-8.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/lighting-8.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -195,7 +194,7 @@
       "name": "Hue/Saturation 1",
       "zIndex": 5,
       "type": "image",
-      "assetName": "hue-saturation_1-7.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/hue-saturation_1-7.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -214,7 +213,7 @@
       "name": "woman",
       "zIndex": 4,
       "type": "image",
-      "assetName": "woman-6.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/woman-6.png",
       "positionPercent": {
         "x": 0.206481,
         "y": 0.075521
@@ -233,7 +232,7 @@
       "name": "Layer 2",
       "zIndex": 3,
       "type": "image",
-      "assetName": "layer_2-5.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/layer_2-5.png",
       "positionPercent": {
         "x": 0,
         "y": 0.142187
@@ -252,7 +251,7 @@
       "name": "LIGHT 1",
       "zIndex": 2,
       "type": "image",
-      "assetName": "light_1-4.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/light_1-4.png",
       "positionPercent": {
         "x": 0,
         "y": 0
@@ -271,7 +270,7 @@
       "name": "BG",
       "zIndex": 1,
       "type": "image",
-      "assetName": "bg-3.png",
+      "assetName": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/bg-3.png",
       "positionPercent": {
         "x": 0,
         "y": 0
