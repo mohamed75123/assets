@@ -1,0 +1,9 @@
+[
+  {
+    "id": "cover-sample-1",
+    "name": "نمونه کاور پست",
+    "category": "coverPost",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/thumbnails/cover_sample_thumb.jpg",
+    "jsonUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/cover_sample.json"
+  }
+]

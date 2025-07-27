@@ -1,0 +1,9 @@
+[
+  {
+    "id": "story-sample-1",
+    "name": "نمونه استوری",
+    "category": "story",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/thumbnails/story_sample_thumb.jpg",
+    "jsonUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/story_sample.json"
+  }
+]

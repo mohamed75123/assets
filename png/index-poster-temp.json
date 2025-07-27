@@ -1,0 +1,9 @@
+[
+  {
+    "id": "poster-sample-1",
+    "name": "نمونه پوستر مناسبتی",
+    "category": "traditional",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/thumbnails/poster_sample_thumb.jpg",
+    "jsonUrl": "https://cdn.jsdelivr.net/gh/mohamed75123/assets@main/png/project/poster_sample.json"
+  }
+]
