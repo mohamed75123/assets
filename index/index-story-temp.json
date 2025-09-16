@@ -8,5 +8,10 @@
     "id": "happy-story-story-N2",
     "name": "happy story",
     "isPremium": false
+  },
+  {
+    "id": "marketing-story-story-N3",
+    "name": "marketing story",
+    "isPremium": false
   }
 ]
