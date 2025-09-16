@@ -13,5 +13,10 @@
     "id": "marketing-story-story-N3",
     "name": "marketing story",
     "isPremium": false
+  },
+  {
+    "id": "migration-story-story-N4",
+    "name": "migration story",
+    "isPremium": false
   }
 ]
