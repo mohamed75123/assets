@@ -1,5 +1,10 @@
 [
   {
+    "id": "cotumer-cover-N14",
+    "name": "cotumer cover",
+    "isPremium": false
+  },
+  {
     "id": "daily-cover-N13",
     "name": "daily cover",
     "isPremium": false
