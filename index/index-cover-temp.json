@@ -1,5 +1,10 @@
 [
   {
+    "id": "money-cover-N19",
+    "name": "daramad reel",
+    "isPremium": false
+  },
+  {
     "id": "beauty-cover-N17",
     "name": "beauty cover",
     "isPremium": false
