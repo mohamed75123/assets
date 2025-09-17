@@ -1,5 +1,10 @@
 [
   {
+    "id": "daily-cover-N13",
+    "name": "daily cover",
+    "isPremium": false
+  },
+  {
     "id": "insta-post-N12",
     "name": "insta post",
     "isPremium": false
