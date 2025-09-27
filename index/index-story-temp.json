@@ -1,5 +1,10 @@
 [
   {
+    "id": "pasargad-N2",
+    "name": "pasargad",
+    "isPremium": false
+  },
+  {
     "id": "tavalod-N1",
     "name": "sefsese",
     "isPremium": false
