@@ -1,5 +1,10 @@
 [
   {
+    "id": "summer-N2",
+    "name": "summer",
+    "isPremium": false
+  },
+  {
     "id": "bitcoin-N1",
     "name": "bitcoin",
     "isPremium": false
