@@ -1,5 +1,10 @@
 [
   {
+    "id": "migration-N4",
+    "name": "migration",
+    "isPremium": false
+  },
+  {
     "id": "cardnumber-N3",
     "name": "cardnumber",
     "isPremium": false
