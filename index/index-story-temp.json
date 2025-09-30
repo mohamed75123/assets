@@ -1,5 +1,10 @@
 [
   {
+    "id": "musicamir-N7",
+    "name": "musicamir",
+    "isPremium": false
+  },
+  {
     "id": "marketing-N6",
     "name": "marketing",
     "isPremium": false
