@@ -1,5 +1,10 @@
 [
   {
+    "id": "tower-N9",
+    "name": "tower",
+    "isPremium": false
+  },
+  {
     "id": "valentin-N8",
     "name": "valentin",
     "isPremium": false
