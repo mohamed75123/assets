@@ -1,5 +1,10 @@
 [
   {
+    "id": "airpod-N16",
+    "name": "airpod",
+    "isPremium": true
+  },
+  {
     "id": "mahsoul-N15",
     "name": "looser",
     "isPremium": true
