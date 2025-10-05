@@ -1,5 +1,10 @@
 [
   {
+    "id": "zybayi-N17",
+    "name": "airpod",
+    "isPremium": true
+  },
+  {
     "id": "airpod-N16",
     "name": "airpod",
     "isPremium": true
