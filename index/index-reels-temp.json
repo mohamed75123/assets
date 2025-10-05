@@ -1,5 +1,10 @@
 [
   {
+    "id": "mahsoul-N15",
+    "name": "looser",
+    "isPremium": true
+  },
+  {
     "id": "looser-N14",
     "name": "looser",
     "isPremium": true
