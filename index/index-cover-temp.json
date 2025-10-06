@@ -1,5 +1,10 @@
 [
   {
+    "id": "macha-N22",
+    "name": "macha",
+    "isPremium": true
+  },
+  {
     "id": "beautynest-N21",
     "name": "milioner",
     "isPremium": true
