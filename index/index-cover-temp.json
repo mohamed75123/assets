@@ -1,5 +1,10 @@
 [
   {
+    "id": "beautynest-N21",
+    "name": "milioner",
+    "isPremium": true
+  },
+  {
     "id": "milioner-N20",
     "name": "milioner",
     "isPremium": true
