@@ -1,5 +1,10 @@
 [
   {
+    "id": "milioner-N20",
+    "name": "milioner",
+    "isPremium": true
+  },
+  {
     "id": "atrina-N19",
     "name": "atrina",
     "isPremium": true
