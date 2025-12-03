@@ -1,5 +1,10 @@
 [
   {
+    "id": "new-project-N31",
+    "name": "beauty",
+    "isPremium": true
+  },
+  {
     "id": "beauty-N30",
     "name": "beauty",
     "isPremium": false
