@@ -1,5 +1,10 @@
 [
   {
+    "id": "youtube-N32",
+    "name": "youtube",
+    "isPremium": true
+  },
+  {
     "id": "new-project-N31",
     "name": "beauty",
     "isPremium": true
