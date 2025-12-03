@@ -1,5 +1,10 @@
 [
   {
+    "id": "beauty-N30",
+    "name": "beauty",
+    "isPremium": false
+  },
+  {
     "id": "zybayi-N17",
     "name": "airpod",
     "isPremium": true
