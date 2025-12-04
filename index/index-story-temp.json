@@ -1,5 +1,10 @@
 [
   {
+    "id": "musican-N36",
+    "name": "musican",
+    "isPremium": false
+  },
+  {
     "id": "moviex-N35",
     "name": "moviex",
     "isPremium": true
