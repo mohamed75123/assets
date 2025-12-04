@@ -1,5 +1,10 @@
 [
   {
+    "id": "hair-N33",
+    "name": "hair",
+    "isPremium": true
+  },
+  {
     "id": "youtube-N32",
     "name": "youtube",
     "isPremium": true
