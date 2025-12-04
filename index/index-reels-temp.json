@@ -1,5 +1,10 @@
 [
   {
+    "id": "new-project-N38",
+    "name": "new project",
+    "isPremium": false
+  },
+  {
     "id": "moshtari-N34",
     "name": "moshtari",
     "isPremium": false
