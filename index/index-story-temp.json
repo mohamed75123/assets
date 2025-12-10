@@ -1,5 +1,10 @@
 [
   {
+    "id": "story-fitness-N44",
+    "name": "story fitness",
+    "isPremium": false
+  },
+  {
     "id": "shoes-N42",
     "name": "shoes",
     "isPremium": false
