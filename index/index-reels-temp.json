@@ -1,5 +1,10 @@
 [
   {
+    "id": "covereels-N53",
+    "name": "covereels",
+    "isPremium": false
+  },
+  {
     "id": "cafe-N52",
     "name": "cafe",
     "isPremium": false
