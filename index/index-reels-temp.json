@@ -1,5 +1,10 @@
 [
   {
+    "id": "modir-N54",
+    "name": "covereels",
+    "isPremium": true
+  },
+  {
     "id": "covereels-N53",
     "name": "covereels",
     "isPremium": false
