@@ -1,5 +1,10 @@
 [
   {
+    "id": "cafe-N52",
+    "name": "cafe",
+    "isPremium": false
+  },
+  {
     "id": "berger-N51",
     "name": "berger",
     "isPremium": false
