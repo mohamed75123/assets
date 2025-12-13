@@ -1,5 +1,10 @@
 [
   {
+    "id": "portrait-N48",
+    "name": "portrait",
+    "isPremium": true
+  },
+  {
     "id": "new-project-N47",
     "name": "new project",
     "isPremium": true
