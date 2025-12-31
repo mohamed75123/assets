@@ -1,5 +1,10 @@
 [
   {
+    "id": "bagmag-N72",
+    "name": "redshal",
+    "isPremium": false
+  },
+  {
     "id": "redshal-N71",
     "name": "redshal",
     "isPremium": true
