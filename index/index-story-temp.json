@@ -1,5 +1,10 @@
 [
   {
+    "id": "redshal-N71",
+    "name": "redshal",
+    "isPremium": true
+  },
+  {
     "id": "shishe-N70",
     "name": "shishe",
     "isPremium": false
