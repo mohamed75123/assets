@@ -1,5 +1,10 @@
 [
   {
+    "id": "new-project-N73",
+    "name": "new project",
+    "isPremium": false
+  },
+  {
     "id": "bagmag-N72",
     "name": "redshal",
     "isPremium": false
